@@ -32,7 +32,7 @@ pip3 install openpyxl
 
 点击此处的下载按钮，即可得到xlsx文件
 
-![3](https://raw.githubusercontent.com/FantWu/Pictures/main/截屏2022-08-06%2016.58.59.png?token=GHSAT0AAAAAABXLZXBFRJJ2ORC537OWWL3CYXOFW3Q)
+![3](https://raw.githubusercontent.com/FantWu/Pictures/main/截屏2022-08-06%2017.01.41.png?token=GHSAT0AAAAAABXLZXBEOW7WJTP7O36YCJO2YXOGOSQ)
 
 把xlsx文件重命名为1.xlsx，并和JLUCourseHelper.exe放在同一目录下
 
@@ -47,7 +47,7 @@ MacOS系统：在终端下打开此目录，然后执行
 python3 JLUCourseHelper.py
 ```
 脚本正常运行时，你应该会看到如下画面：
-![5](https://raw.githubusercontent.com/FantWu/Pictures/main/截屏2022-08-06%2017.07.06.png?token=GHSAT0AAAAAABXLZXBE5W56MTQKEU4OZXBGYXOF6XA)
+![5](https://raw.githubusercontent.com/FantWu/Pictures/main/截屏2022-08-06%2017.07.06.png?token=GHSAT0AAAAAABXLZXBET2S6QFR7Z6J565C2YXOGPAA)
 
 此时，当前目录下会出现output.csv文件，利用自己的方法把它发送到手机上。
 
