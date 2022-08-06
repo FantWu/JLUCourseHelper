@@ -24,11 +24,11 @@ pip3 install openpyxl
 ## 使用
 
 打开新教务系统并进入“我的课表”，然后点击“教学进度表”
-![1](https://raw.githubusercontent.com/FantWu/Pictures/main/截屏2022-08-06%2016.48.20.png?token=GHSAT0AAAAAABXLZXBEQ6WCWYAEZLU44XLOYXOFQLQ)
+![1](https://raw.githubusercontent.com/FantWu/Pictures/main/截屏2022-08-06%2016.48.20.png?token=GHSAT0AAAAAABXLZXBFDKRKQX6O54IDHLGMYXOGM2Q)
 
 点击“导出”，然后点击“导出文件列表”
 
-![2](https://raw.githubusercontent.com/FantWu/Pictures/main/2.png?token=GHSAT0AAAAAABXLZXBEZ4NSJHFY4BPGWCGSYXOFVHQ)
+![2](https://raw.githubusercontent.com/FantWu/Pictures/main/截屏2022-08-06%2016.58.59.png?token=GHSAT0AAAAAABXLZXBFMCFZIUSTOAVKK2XGYXOGOBA)
 
 点击此处的下载按钮，即可得到xlsx文件
 
