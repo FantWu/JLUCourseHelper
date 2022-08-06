@@ -54,7 +54,7 @@ python3 JLUCourseHelper.py
 
 由于吉林大学本学期开始使用新的时间表，请先将WakeUp课程表中的时间表修改成正确的时间（如下图所示）
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h4x6h90orsj20u0140q4t.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h4xa9nsk6fj20u01chdi8.jpg)
 
 随后回到主界面，点击右上角第二个“下载按钮”，并选择“从Excel模板导入”，然后选择“新建课表再导入”
 
