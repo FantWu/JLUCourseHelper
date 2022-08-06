@@ -28,15 +28,16 @@ pip3 install openpyxl
 
 点击“导出”，然后点击“导出文件列表”
 
-![2](https://raw.githubusercontent.com/FantWu/Pictures/main/截屏2022-08-06%2016.58.59.png?token=GHSAT0AAAAAABXLZXBFMCFZIUSTOAVKK2XGYXOGOBA)
+![2](https://raw.githubusercontent.com/FantWu/Pictures/main/2.png?token=GHSAT0AAAAAABXLZXBE6PXCVV5WVU2J3AS4YXOGRTQ)
 
 点击此处的下载按钮，即可得到xlsx文件
 
-![3](https://raw.githubusercontent.com/FantWu/Pictures/main/截屏2022-08-06%2017.01.41.png?token=GHSAT0AAAAAABXLZXBEOW7WJTP7O36YCJO2YXOGOSQ)
+![3](https://raw.githubusercontent.com/FantWu/Pictures/main/截屏2022-08-06%2017.07.06.png?token=GHSAT0AAAAAABXLZXBET2S6QFR7Z6J565C2YXOGPAA)
 
 把xlsx文件重命名为1.xlsx，并和JLUCourseHelper.exe放在同一目录下
 
-![4](https://raw.githubusercontent.com/FantWu/Pictures/main/截屏2022-08-06%2017.01.41.png?token=GHSAT0AAAAAABXLZXBERA45YAJ7XHO6TJG2YXOFZKA)
+
+![4](https://raw.githubusercontent.com/FantWu/Pictures/main/截屏2022-08-06%2017.01.41.png?token=GHSAT0AAAAAABXLZXBEOW7WJTP7O36YCJO2YXOGOSQ)
 
 执行脚本：
 
@@ -55,11 +56,11 @@ python3 JLUCourseHelper.py
 
 由于吉林大学本学期开始使用新的时间表，请先将WakeUp课程表中的时间表修改成正确的时间（如下图所示）
 
-![6](https://raw.githubusercontent.com/FantWu/Pictures/main/IMG_6599EC0F8804-1.jpeg?token=GHSAT0AAAAAABXLZXBEG23FUVSHICYNIE4CYXOGBPA)
+![6](https://raw.githubusercontent.com/FantWu/Pictures/main/IMG_6599EC0F8804-1.jpeg?token=GHSAT0AAAAAABXLZXBETSVRTHVT4QHGUWAGYXOGS3A)
 
 随后回到主界面，点击右上角第二个“下载按钮”，并选择“从Excel模板导入”，然后选择“新建课表再导入”
 
-![7](https://raw.githubusercontent.com/FantWu/Pictures/main/IMG_37BB4CDB2718-1.jpeg?token=GHSAT0AAAAAABXLZXBEJPXWMGFDBY2EBUQMYXOGFGQ)
+![7](https://raw.githubusercontent.com/FantWu/Pictures/main/IMG_37BB4CDB2718-1.jpeg?token=GHSAT0AAAAAABXLZXBFAAEFP5MM5ADB4DDMYXOGSLA)
 随后点击“选取CSV文件”，找到文件并导入即可
 
 ## 检查
